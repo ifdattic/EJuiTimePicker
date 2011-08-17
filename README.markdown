@@ -1,7 +1,7 @@
 EJuiTimePicker
 ==============
 
-EJuiTimePicker is an axtension for Yii framework. This extension is a wrapper for [Timepicker addon](http://trentrichardson.com/examples/timepicker/ "Timepicker addon") which adds a timepicker to jQuery UI Datepicker.
+EJuiTimePicker is an extension for Yii framework. This extension is a wrapper for [Timepicker addon](http://trentrichardson.com/examples/timepicker/ "Timepicker addon") which adds a timepicker to jQuery UI Datepicker.
 
 This extension is based on [CJuiDateTimePicker extension](http://www.yiiframework.com/extension/datetimepicker/ "CJuiDateTimePicker extension"), hovewer it has different widget call (prefix of 'C' might get confusing in the future) and few other tricks up its sleeve.
 
